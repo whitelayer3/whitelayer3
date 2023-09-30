@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @whitelayer3
+- 👋 Hi, I'm Aswin Prakash 
 - 👀 I’m interested in web development, software testing, software development
-- 🌱 I’m currently learning  Btech Computer science and engineering 
+- 🌱 I’m currently graduated Btech in Computer science and engineering 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through gmail - saswinprakash@gmail.com 
 
